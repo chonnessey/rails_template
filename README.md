@@ -13,6 +13,9 @@
 3. _Node.js_
 4. _Ruby gems_
 5. _HTML_
+6. _Bootstrap_
+7. _scss_
+8. _sass_
 ---
 ### Installation Instructions :pushpin:
 1. Clone this repo: `https://github.com/chonnessey/repo.git`
